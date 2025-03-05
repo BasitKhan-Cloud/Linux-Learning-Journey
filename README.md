@@ -9,3 +9,4 @@ Welcome to my repo! I'm documenting my progress as I learn Linux fundamentals, s
 
 ## Latest Commit
 - `list_files.sh`: A script to list files in a directory.
+Added list_files.sh - my first bash script to list directory contents
